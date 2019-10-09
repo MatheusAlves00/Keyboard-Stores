@@ -1,0 +1,22 @@
+.container{
+
+}
+.keyboard-images{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.keyboard-img{
+    border: 1px solid;
+    padding: 15px;
+}
+
+.keyboard-img:hover{
+    border: 10px solid;
+    border-color: rgb(8, 4, 4);
+}
+
+.keyboard-img img{
+    width: 250px;
+}
